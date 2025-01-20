@@ -112,8 +112,6 @@ WHERE lpep_pickup_datetime >= '2019-10-01 00:00:00'
 Answer: 104,849; 199,040; 109,670; 27,693; 35,202
 
 
-
-
 Question 4. Longest trip for each day
 
 Which was the pick up day with the longest trip distance? Use the pick up time for your calculations.
